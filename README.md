@@ -14,4 +14,6 @@ Usage
 Sample
 ------
 
+	$ ./main.py | wc -l
+	555957480
 
